@@ -4,7 +4,7 @@
 ##  YouTube Demo:
 
 [![YouTube](https://img.youtube.com/vi/zA1tWpJPCAA/0.jpg)](https://www.youtube.com/watch?v=zA1tWpJPCAA "Youtube Demo") 
-<img width="100" align="right" alt="Slide 1" src="https://github.com/ShahzebFarruk/Human-Motion-Capture-using-Xens-Mtw-Awinda/assets/61950234/c4dcb27c-c87e-476f-b5e3-02a576c58b4a">
+<img width="100" align="bottom" alt="Slide 1" src="https://github.com/ShahzebFarruk/Human-Motion-Capture-using-Xens-Mtw-Awinda/assets/61950234/c4dcb27c-c87e-476f-b5e3-02a576c58b4a">
 
 <img width="932" alt="Slide 1" src="https://github.com/ShahzebFarruk/Human-Motion-Capture-using-Xens-Mtw-Awinda/assets/61950234/4f3ab559-34c4-47a0-ae74-1f9fc6609f04">
 <img width="934" alt="Slide 2" src="https://github.com/ShahzebFarruk/Human-Motion-Capture-using-Xens-Mtw-Awinda/assets/61950234/b3287c8f-e6a3-4539-b994-16b69ffac15e">
