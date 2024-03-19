@@ -1,7 +1,5 @@
 # Human Motion Capture using Xens Mtw Awinda
-<img width="100" src="https://github.com/ShahzebFarruk/Human-Motion-Capture-using-Xens-Mtw-Awinda/assets/61950234/d0bfb1b6-0341-47f2-9916-1eec99c9980c=50x50">
-
-Human Motion Capture using Xens Mtw Awinda: Motion capture systems play an essential role in health care, sport-training systems, gaming and animation. This paper conducts a human motion analysis using Euler angle data captured from a commercial body sensor network composed of Inertial-Magnetic Measurement Unit (IMMU) array called Xens Awinda Mtw. 
+<img width="300" src="https://github.com/ShahzebFarruk/Human-Motion-Capture-using-Xens-Mtw-Awinda/assets/61950234/d0bfb1b6-0341-47f2-9916-1eec99c9980c"> Human Motion Capture using Xens Mtw Awinda: Motion capture systems play an essential role in health care, sport-training systems, gaming and animation. This paper conducts a human motion analysis using Euler angle data captured from a commercial body sensor network composed of Inertial-Magnetic Measurement Unit (IMMU) array called Xens Awinda Mtw. 
 <img width="932" alt="Slide 1" src="https://github.com/ShahzebFarruk/Human-Motion-Capture-using-Xens-Mtw-Awinda/assets/61950234/4f3ab559-34c4-47a0-ae74-1f9fc6609f04">
 <img width="934" alt="Slide 2" src="https://github.com/ShahzebFarruk/Human-Motion-Capture-using-Xens-Mtw-Awinda/assets/61950234/b3287c8f-e6a3-4539-b994-16b69ffac15e">
 <img width="935" alt="Slide 3" src="https://github.com/ShahzebFarruk/Human-Motion-Capture-using-Xens-Mtw-Awinda/assets/61950234/fecfe432-2147-442e-8377-168c75d241dd">
